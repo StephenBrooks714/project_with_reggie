@@ -1,0 +1,11 @@
+$primaryColor: blue;
+
+nav.navbar {
+  display: flex;
+  width: 100%;
+
+  ul.nav-items-left {
+    justify-content: start;
+    color: $primaryColor;
+  }
+}

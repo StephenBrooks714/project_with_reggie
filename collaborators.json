@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "instructor": "Stephen",
+        "collaborator": "Reggie"
+    },
+    "languages": {
+        "front-end": "Html, Css, Scss"
+    },
+    "purpose": {
+        "projectScope": "Build a web app that is completed constructed from Html, Css and Scss"
+    },
+    "projectReferences": {
+        "google-fonts": "https://fonts.google.com/",
+        "font-awesome": "https://fontawesome.com/",
+        "coding-reference": "https://www.w3schools.com/",
+        "npm": "https://www.npmjs.com/",
+        "CssGradientGenerator": "https://cssgradient.io/",
+        "unsplash": "https://unsplash.com/",
+        "github": "https://github.com/"
+    },
+    "testing": {
+        "testing": "https://www.postman.com/"
+    }
+}

@@ -1,0 +1,9 @@
+Creating a project, guided by the learner and interacted with instructor
+
+1) Create HTML file with elements, show proper semantic usage
+
+2) Usage of CSS for desired outcome
+
+3) Create directory for Css, link to the files from Html page(s).
+
+4) At the end, implement Scss and then refactor

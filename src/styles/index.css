@@ -1,0 +1,10 @@
+nav.navbar {
+  display: flex;
+  width: 100%;
+}
+nav.navbar ul.nav-items-left {
+  justify-content: start;
+  color: blue;
+}
+
+/*# sourceMappingURL=index.css.map */
